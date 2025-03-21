@@ -1,6 +1,6 @@
-<center>
+<div align="center">
 <h1>Joystick 🕹️</h1>
-</center>
+</div>
 
 An example python project setup as a module.
 
