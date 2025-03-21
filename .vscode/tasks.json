@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run the joystick python module",
+      "type": "shell",
+      "command": "python3",
+      "args": ["-m", "joystick"],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": [],
+      "detail": "Run the joystick python module with -m"
+    }
+  ]
+}
